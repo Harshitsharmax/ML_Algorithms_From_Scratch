@@ -12,6 +12,8 @@ Welcome to ML_Algorithms_From_Scratch repository! This repository contains Pytho
 
 4. **Lasso Regression**: Lasso regression is a regularization technique used to perform regression analysis while encouraging sparsity in the coefficients. It is particularly useful in settings where the number of predictors is large relative to the number of observations.
 
+5. **KNN Classifier**: The K-Nearest Neighbors (KNN) classifier classifies data points based on the majority label of their 'k' nearest neighbors. It is a simple, non-parametric algorithm effective for small datasets. 
+
 ## How to Use
 
 Each algorithm is implemented in a separate Python file. To use any of the implemented algorithms, follow these steps:
